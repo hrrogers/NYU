@@ -8,5 +8,5 @@ The repository is organized by course, with each course having its own dedicated
 
 ## Courses Included
 
-* [List of courses with completed labs]
+* List of courses with completed labs
     * Network Security
